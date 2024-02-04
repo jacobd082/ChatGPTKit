@@ -21,6 +21,7 @@ public enum Model: String {
     // GPT-4
     case gpt4 = "gpt-4"
     case gpt4_32k = "gpt-4-32k"
+    case gpt4_turbo_preview = "gpt-4-turbo-preview"
     
     // GPT-4 Snapshots
     // Not recommended in production as it
